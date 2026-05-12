@@ -116,7 +116,7 @@ O painel permite acompanhar indicadores financeiros, entradas, despesas, saldo i
 
 \### Dashboard Principal
 
-![Dashboard Principal](Prints/dashboard-geral.png)
+![Dashboard Principal](./Prints/dashboard-geral.png)
 
 
 
@@ -136,7 +136,7 @@ O painel permite acompanhar indicadores financeiros, entradas, despesas, saldo i
 \### Análise Financeira - Gráfico de Cascata
 
 
-![Cascata](Prints/grafico-cascata.png)
+![Cascata](./Prints/grafico-cascata.png)
 
 
 
@@ -148,7 +148,7 @@ O painel permite acompanhar indicadores financeiros, entradas, despesas, saldo i
 
 
 
-![Modelagem](Prints/modelagem-dados.png)
+![Modelagem](./Prints/modelagem-dados.png)
 
 
 
